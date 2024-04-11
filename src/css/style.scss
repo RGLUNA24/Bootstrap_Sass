@@ -1,0 +1,17 @@
+
+@import '~bootstrap/scss/_functions';
+@import '~bootstrap/scss/_variables';
+
+// custom colors
+$cus-theme-colors: (
+  "cusFont": #3e3e3e,
+  "cusLight":    #dfd9d6,
+  "cusDark":  #b2673a,
+  "cusDarker":    #5b3022,
+  "cusDarkest":    #351e17
+);
+
+$theme-colors: map-merge($cus-theme-colors , $theme-colors );
+
+@import './mystyle';
+@import '~bootstrap/scss/bootstrap';
