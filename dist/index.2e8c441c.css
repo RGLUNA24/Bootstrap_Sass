@@ -9,6 +9,26 @@
   font-weight: bolder;
 }
 
+.test-card {
+  opacity: 0;
+  transition: all 1s;
+  transform: translateX(-100%);
+}
+
+.section {
+  opacity: 0;
+  transition: all 2s;
+}
+
+.show {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.test-card:nth-child(2) {
+  transition-delay: 1.5s;
+}
+
 :root, [data-bs-theme="light"] {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;

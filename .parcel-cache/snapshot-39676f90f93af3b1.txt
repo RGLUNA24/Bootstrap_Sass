@@ -1,13 +1,4 @@
 6513
-75C:\PROGRAMMING\SassBootstrap\node_modules\@parcel\core\lib\public\Config.js133572755364216233 0
-72C:\PROGRAMMING\SassBootstrap\node_modules\@parcel\core\src\buildCache.js133572755364046061 0
-72C:\PROGRAMMING\SassBootstrap\node_modules\nth-check\lib\esm\parse.js.map133572755331809558 0
-71C:\PROGRAMMING\SassBootstrap\node_modules\sass\types\value\boolean.d.ts133572758954433831 0
-47C:\PROGRAMMING\SassBootstrap\node_modules\chalk133572755359492807 1
-82C:\PROGRAMMING\SassBootstrap\node_modules\@swc\helpers\src\_async_to_generator.mjs133572755344767751 0
-90C:\PROGRAMMING\SassBootstrap\node_modules\css-tree\lib\syntax\node\index-parse-selector.js133572755333366663 0
-70C:\PROGRAMMING\SassBootstrap\node_modules\@swc\helpers\_\_ts_generator133572755344373597 1
-80C:\PROGRAMMING\SassBootstrap\node_modules\caniuse-lite\data\features\jpeg2000.js133572755343806140 0
 66C:\PROGRAMMING\SassBootstrap\node_modules\semver\functions\sort.js133572755343217459 0
 59C:\PROGRAMMING\SassBootstrap\node_modules\type-fest\license133572755337571659 0
 86C:\PROGRAMMING\SassBootstrap\node_modules\@swc\helpers\esm\_interop_require_default.js133572755342455175 0
@@ -31,7 +22,7 @@
 81C:\PROGRAMMING\SassBootstrap\node_modules\@popperjs\core\dist\esm\utils\within.js133572757430352787 0
 76C:\PROGRAMMING\SassBootstrap\node_modules\type-fest\ts41\delimiter-case.d.ts133572755337731867 0
 67C:\PROGRAMMING\SassBootstrap\node_modules\@swc\helpers\cjs\_jsx.cjs133572755341811269 0
-33C:\PROGRAMMING\SassBootstrap\dist133572956101634974 1
+33C:\PROGRAMMING\SassBootstrap\dist133573761785298260 1
 89C:\PROGRAMMING\SassBootstrap\node_modules\@parcel\transformer-json\lib\JSONTransformer.js133572755353496334 0
 60C:\PROGRAMMING\SassBootstrap\node_modules\utility-types\dist133572755340532384 1
 63C:\PROGRAMMING\SassBootstrap\node_modules\lmdb\rollup.config.js133572755345549499 0
@@ -61,6 +52,9 @@
 73C:\PROGRAMMING\SassBootstrap\node_modules\caniuse-lite\data\regions\CF.js133572755340520192 0
 32C:\PROGRAMMING\SassBootstrap\src133572766214297631 1
 77C:\PROGRAMMING\SassBootstrap\node_modules\caniuse-lite\data\regions\alt-an.js133572755339985684 0
+70C:\PROGRAMMING\SassBootstrap\node_modules\htmlnano\docs\versioned_docs133572755343999573 1
+51C:\PROGRAMMING\SassBootstrap\src\img\coffee-cup.png133572917577738958 0
+72C:\PROGRAMMING\SassBootstrap\node_modules\nth-check\lib\esm\compile.d.ts133572755331889826 0
 93C:\PROGRAMMING\SassBootstrap\node_modules\csso\node_modules\css-tree\cjs\generator\create.cjs133572755366153544 0
 76C:\PROGRAMMING\SassBootstrap\node_modules\lmdb\dependencies\lz4\lib\xxhash.h133572755345390805 0
 61C:\PROGRAMMING\SassBootstrap\node_modules\csso\cjs\syntax.cjs133572755330501186 0
@@ -84,7 +78,7 @@
 83C:\PROGRAMMING\SassBootstrap\node_modules\bootstrap\js\src\util\template-factory.js133572757429417464 0
 87C:\PROGRAMMING\SassBootstrap\node_modules\caniuse-lite\data\features\insert-adjacent.js133572755343614298 0
 72C:\PROGRAMMING\SassBootstrap\node_modules\svgo\plugins\removeUnusedNS.js133572755338492418 0
-43C:\PROGRAMMING\SassBootstrap\src\index.html133572956101466617 0
+43C:\PROGRAMMING\SassBootstrap\src\index.html133573755514115589 0
 91C:\PROGRAMMING\SassBootstrap\node_modules\@swc\helpers\esm\_define_enumerable_properties.js133572755342384688 0
 61C:\PROGRAMMING\SassBootstrap\node_modules\commander\Readme.md133572755358615593 0
 93C:\PROGRAMMING\SassBootstrap\node_modules\@babel\highlight\node_modules\ansi-styles\readme.md133572755366466061 0
@@ -99,7 +93,7 @@
 57C:\PROGRAMMING\SassBootstrap\node_modules\htmlparser2\lib133572755333590383 1
 75C:\PROGRAMMING\SassBootstrap\node_modules\caniuse-lite\data\features\av1.js133572755340198628 0
 62C:\PROGRAMMING\SassBootstrap\node_modules\parse-json\readme.md133572755337202515 0
-42C:\PROGRAMMING\SassBootstrap\src\js\app.js133572757793548842 0
+42C:\PROGRAMMING\SassBootstrap\src\js\app.js133573761784996386 0
 61C:\PROGRAMMING\SassBootstrap\node_modules\safe-buffer\LICENSE133572755339006311 0
 51C:\PROGRAMMING\SassBootstrap\node_modules\@popperjs133572757427923964 1
 54C:\PROGRAMMING\SassBootstrap\node_modules\@swc\counter133572755342340286 1
@@ -189,7 +183,7 @@
 74C:\PROGRAMMING\SassBootstrap\node_modules\nth-check\lib\esm\index.d.ts.map133572755331719724 0
 82C:\PROGRAMMING\SassBootstrap\node_modules\posthtml-parser\dist\location-tracker.js133572755340950504 0
 97C:\PROGRAMMING\SassBootstrap\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\sample-mdb.txt133572755345914243 0
-49C:\PROGRAMMING\SassBootstrap\src\css\mystyle.scss133572927148694685 0
+49C:\PROGRAMMING\SassBootstrap\src\css\mystyle.scss133573759778372406 0
 94C:\PROGRAMMING\SassBootstrap\node_modules\@popperjs\core\lib\dom-utils\getDocumentElement.d.ts133572757429242596 0
 60C:\PROGRAMMING\SassBootstrap\node_modules\@swc\core\spack.js133572755343250940 0
 64C:\PROGRAMMING\SassBootstrap\node_modules\picomatch\CHANGELOG.md133572755335340464 0
@@ -304,6 +298,11 @@
 124C:\PROGRAMMING\SassBootstrap\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\function\expression.js133572755370454868 0
 54C:\PROGRAMMING\SassBootstrap\node_modules\caniuse-lite133572755347635965 1
 97C:\PROGRAMMING\SassBootstrap\node_modules\css-select\node_modules\domutils\lib\esm\helpers.js.map133572755365770245 0
+75C:\PROGRAMMING\SassBootstrap\node_modules\@parcel\core\lib\public\Config.js133572755364216233 0
+72C:\PROGRAMMING\SassBootstrap\node_modules\@parcel\core\src\buildCache.js133572755364046061 0
+72C:\PROGRAMMING\SassBootstrap\node_modules\nth-check\lib\esm\parse.js.map133572755331809558 0
+71C:\PROGRAMMING\SassBootstrap\node_modules\sass\types\value\boolean.d.ts133572758954433831 0
+47C:\PROGRAMMING\SassBootstrap\node_modules\chalk133572755359492807 1
 47C:\PROGRAMMING\SassBootstrap\node_modules\clone133572755344747017 1
 64C:\PROGRAMMING\SassBootstrap\node_modules\detect-libc\.npmignore133572755341538567 0
 74C:\PROGRAMMING\SassBootstrap\node_modules\svgo\plugins\sortDefsChildren.js133572755338557914 0
@@ -497,7 +496,7 @@
 93C:\PROGRAMMING\SassBootstrap\node_modules\csso\node_modules\mdn-data\css\syntaxes.schema.json133572755366163678 0
 73C:\PROGRAMMING\SassBootstrap\node_modules\type-fest\source\utilities.d.ts133572755338001893 0
 66C:\PROGRAMMING\SassBootstrap\node_modules\nth-check\lib\index.d.ts133572755331925559 0
-57C:\PROGRAMMING\SassBootstrap\dist\test-carlo.89c04bea.jpg133572936297133445 0
+57C:\PROGRAMMING\SassBootstrap\dist\test-carlo.89c04bea.jpg133573736130474525 0
 52C:\PROGRAMMING\SassBootstrap\node_modules\micromatch133572755339493030 1
 50C:\PROGRAMMING\SassBootstrap\node_modules\msgpackr133572755344578999 1
 67C:\PROGRAMMING\SassBootstrap\node_modules\lmdb\src\v8-functions.cpp133572755345003543 0
@@ -809,7 +808,7 @@
 79C:\PROGRAMMING\SassBootstrap\node_modules\caniuse-lite\data\features\svg-img.js133572755346620776 0
 99C:\PROGRAMMING\SassBootstrap\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\clean\Raw.js133572755369343500 0
 62C:\PROGRAMMING\SassBootstrap\node_modules\posthtml-parser\dist133572755340992858 1
-51C:\PROGRAMMING\SassBootstrap\dist\index.59a40e7a.js133572936297083301 0
+51C:\PROGRAMMING\SassBootstrap\dist\index.59a40e7a.js133573761785278204 0
 81C:\PROGRAMMING\SassBootstrap\node_modules\@parcel\packager-css\src\CSSPackager.js133572755357651270 0
 76C:\PROGRAMMING\SassBootstrap\node_modules\svgo\plugins\removeRasterImages.js133572755338466620 0
 97C:\PROGRAMMING\SassBootstrap\node_modules\css-select\node_modules\domutils\lib\traversal.d.ts.map133572755365957854 0
@@ -1149,7 +1148,7 @@
 52C:\PROGRAMMING\SassBootstrap\node_modules\json5\dist133572755344405308 1
 79C:\PROGRAMMING\SassBootstrap\node_modules\@popperjs\core\lib\modifiers\arrow.js133572757429565746 0
 54C:\PROGRAMMING\SassBootstrap\node_modules\svgo\plugins133572755338547801 1
-57C:\PROGRAMMING\SassBootstrap\dist\coffee-cup.2b5caa41.png133572936296678558 0
+57C:\PROGRAMMING\SassBootstrap\dist\coffee-cup.2b5caa41.png133573736129990195 0
 121C:\PROGRAMMING\SassBootstrap\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\definition-syntax\index.js133572755370642422 0
 108C:\PROGRAMMING\SassBootstrap\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeUnusedNS.js133572755370195954 0
 83C:\PROGRAMMING\SassBootstrap\node_modules\svgo\plugins\addAttributesToSVGElement.js133572755338077418 0
@@ -1525,7 +1524,7 @@
 70C:\PROGRAMMING\SassBootstrap\node_modules\semver\classes\comparator.js133572755342859947 0
 64C:\PROGRAMMING\SassBootstrap\node_modules\csso\cjs\clean\Raw.cjs133572755330468841 0
 71C:\PROGRAMMING\SassBootstrap\node_modules\css-select\lib\esm\general.js133572755331776969 0
-56C:\PROGRAMMING\SassBootstrap\dist\test-jeyg.5ddd2708.jpg133572936296789393 0
+56C:\PROGRAMMING\SassBootstrap\dist\test-jeyg.5ddd2708.jpg133573736130738758 0
 65C:\PROGRAMMING\SassBootstrap\node_modules\csso\lib\clean\index.js133572755330818516 0
 66C:\PROGRAMMING\SassBootstrap\node_modules\semver\classes\semver.js133572755343200630 0
 73C:\PROGRAMMING\SassBootstrap\node_modules\caniuse-lite\data\regions\BH.js133572755340315354 0
@@ -1905,9 +1904,6 @@
 98C:\PROGRAMMING\SassBootstrap\node_modules\csso\node_modules\css-tree\cjs\parser\parse-selector.cjs133572755367025940 0
 73C:\PROGRAMMING\SassBootstrap\node_modules\caniuse-lite\data\regions\SV.js133572755346581669 0
 68C:\PROGRAMMING\SassBootstrap\node_modules\nth-check\lib\parse.js.map133572755331828742 0
-70C:\PROGRAMMING\SassBootstrap\node_modules\htmlnano\docs\versioned_docs133572755343999573 1
-51C:\PROGRAMMING\SassBootstrap\src\img\coffee-cup.png133572917577738958 0
-72C:\PROGRAMMING\SassBootstrap\node_modules\nth-check\lib\esm\compile.d.ts133572755331889826 0
 76C:\PROGRAMMING\SassBootstrap\node_modules\nth-check\lib\esm\compile.d.ts.map133572755331639633 0
 75C:\PROGRAMMING\SassBootstrap\node_modules\domelementtype\lib\esm\index.d.ts133572755333585312 0
 84C:\PROGRAMMING\SassBootstrap\node_modules\caniuse-lite\data\features\input-number.js133572755343540989 0
@@ -1946,7 +1942,7 @@
 68C:\PROGRAMMING\SassBootstrap\node_modules\css-what\lib\es\types.d.ts133572755331962610 0
 58C:\PROGRAMMING\SassBootstrap\node_modules\globals\index.js133572755342815951 0
 87C:\PROGRAMMING\SassBootstrap\node_modules\node-gyp-build-optional-packages\node_modules133572755328400509 1
-52C:\PROGRAMMING\SassBootstrap\dist\index.2e8c441c.css133572936297083301 0
+52C:\PROGRAMMING\SassBootstrap\dist\index.2e8c441c.css133573759802925682 0
 95C:\PROGRAMMING\SassBootstrap\node_modules\@swc\helpers\cjs\_class_private_field_destructure.cjs133572755341471052 0
 74C:\PROGRAMMING\SassBootstrap\node_modules\immutable\dist\immutable.js.flow133572758943583158 0
 96C:\PROGRAMMING\SassBootstrap\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Comment.cjs133572755366109479 0
@@ -3407,6 +3403,9 @@
 80C:\PROGRAMMING\SassBootstrap\node_modules\css-tree\lib\syntax\node\IdSelector.js133572755333250764 0
 83C:\PROGRAMMING\SassBootstrap\node_modules\caniuse-lite\data\features\geolocation.js133572755342739936 0
 78C:\PROGRAMMING\SassBootstrap\node_modules\css-tree\cjs\syntax\config\lexer.cjs133572755332419363 0
+82C:\PROGRAMMING\SassBootstrap\node_modules\@swc\helpers\src\_async_to_generator.mjs133572755344767751 0
+90C:\PROGRAMMING\SassBootstrap\node_modules\css-tree\lib\syntax\node\index-parse-selector.js133572755333366663 0
+70C:\PROGRAMMING\SassBootstrap\node_modules\@swc\helpers\_\_ts_generator133572755344373597 1
 80C:\PROGRAMMING\SassBootstrap\node_modules\css-tree\lib\syntax\node\MediaQuery.js133572755333668073 0
 84C:\PROGRAMMING\SassBootstrap\node_modules\css-tree\lib\syntax\node\MediaQueryList.js133572755333678597 0
 89C:\PROGRAMMING\SassBootstrap\node_modules\@swc\helpers\_\_is_native_function\package.json133572755343745625 0
@@ -4504,6 +4503,7 @@
 89C:\PROGRAMMING\SassBootstrap\node_modules\@swc\helpers\esm\_class_private_field_update.js133572755342247638 0
 92C:\PROGRAMMING\SassBootstrap\node_modules\caniuse-lite\data\features\intersectionobserver.js133572755343655454 0
 88C:\PROGRAMMING\SassBootstrap\node_modules\caniuse-lite\data\features\intl-pluralrules.js133572755343667725 0
+80C:\PROGRAMMING\SassBootstrap\node_modules\caniuse-lite\data\features\jpeg2000.js133572755343806140 0
 100C:\PROGRAMMING\SassBootstrap\node_modules\caniuse-lite\data\features\justify-content-space-evenly.js133572755343871560 0
 83C:\PROGRAMMING\SassBootstrap\node_modules\@parcel\reporter-dev-server\src\Server.js133572755363018794 0
 90C:\PROGRAMMING\SassBootstrap\node_modules\caniuse-lite\data\features\keyboardevent-code.js133572755343923213 0
@@ -5176,7 +5176,7 @@
 60C:\PROGRAMMING\SassBootstrap\node_modules\@swc\core\bindings133572755343334166 1
 60C:\PROGRAMMING\SassBootstrap\node_modules\@swc\core\index.js133572755343233018 0
 66C:\PROGRAMMING\SassBootstrap\node_modules\@swc\core\postinstall.js133572755343244596 0
-55C:\PROGRAMMING\SassBootstrap\dist\index.59a40e7a.js.map133572936297123400 0
+55C:\PROGRAMMING\SassBootstrap\dist\index.59a40e7a.js.map133573761785298260 0
 62C:\PROGRAMMING\SassBootstrap\node_modules\@swc\core\spack.d.ts133572755343393983 0
 61C:\PROGRAMMING\SassBootstrap\node_modules\@swc\core\util.d.ts133572755343399202 0
 59C:\PROGRAMMING\SassBootstrap\node_modules\@swc\core\util.js133572755343261117 0
@@ -6508,7 +6508,7 @@
 73C:\PROGRAMMING\SassBootstrap\node_modules\.bin\update-browserslist-db.cmd133572755377409238 0
 73C:\PROGRAMMING\SassBootstrap\node_modules\.bin\update-browserslist-db.ps1133572755377409238 0
 58C:\PROGRAMMING\SassBootstrap\dist\coffe-break.a54e5903.png133572890531306748 0
-52C:\PROGRAMMING\SassBootstrap\dist\beans.cb15c83e.png133572936296635762 0
-53C:\PROGRAMMING\SassBootstrap\dist\coffee.adcdee52.png133572936296698609 0
-56C:\PROGRAMMING\SassBootstrap\dist\index.2e8c441c.css.map133572936297123400 0
-44C:\PROGRAMMING\SassBootstrap\dist\index.html133572956101634974 0
+52C:\PROGRAMMING\SassBootstrap\dist\beans.cb15c83e.png133573736130050641 0
+53C:\PROGRAMMING\SassBootstrap\dist\coffee.adcdee52.png133573736130072397 0
+44C:\PROGRAMMING\SassBootstrap\dist\index.html133573755515934949 0
+56C:\PROGRAMMING\SassBootstrap\dist\index.2e8c441c.css.map133573759802946652 0
